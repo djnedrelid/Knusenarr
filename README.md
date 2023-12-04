@@ -15,5 +15,5 @@ Et batch skript medfølger som man kan bruke for å kopiere inn programmet i opp
 men funker også fint ved å bare kjøre den. Den vil skjule seg fra oppgavelinjen men være synlig i taskmgr hvis man vil 
 tvinge det av eller sjekke at det kjører.  
 
-Hvis du bruker skriptet for automatisk oppstart, kan du bare fjerne det herfra igjen:  
+**Hvis du bruker skriptet for automatisk oppstart, kan du bare fjerne det herfra igjen:**  
 ```C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp```
