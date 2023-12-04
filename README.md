@@ -3,7 +3,7 @@
 Se om du kan narre noen som gamer mye, tar utgangspunkt i mye WASD knappetrykking.  
 
 ![Example UI](example_ui.png)  
-<br><br>
+<br><br><br>
 
 På tilfeldige tidspunkt i mange spill er det uunngåelig at AWD vil bli trykket ned på likt, 
 i dette tilfellet vil programmet produsere en visuell (men heldigvis digital...) 
